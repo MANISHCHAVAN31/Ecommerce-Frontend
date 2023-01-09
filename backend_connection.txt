@@ -1,0 +1,6 @@
+
+
+1. create a .env file
+2. in react, when you mention url in .env file, always start with REACT_APP_<name>
+3. restart server in react
+4. use process.env.<name>

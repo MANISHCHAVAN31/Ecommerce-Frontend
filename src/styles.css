@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;800&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #111827;
+  color: #eee;
+  font-family: 'Poppins', sans-serif;
+}
+
